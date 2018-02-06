@@ -1,13 +1,26 @@
 # qaep-cli
 
-> 前端脚手架
+> front-end build tool
 
 ## Usage
 
 ``` bash
 $ npm install -g qaep-cli
-$ qaep init [project-name]
-$ cd project-name
-$ npm install
-$ npm run dev
+```
+
+## Example
+download qaep-template to local
+
+```bash
+qaep init [project-name]
+cd project-name
+npm install
+npm run dev
+```
+
+## Example
+download minpic key to local
+
+``` bash
+qaep minpic 
 ```

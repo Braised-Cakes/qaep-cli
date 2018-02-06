@@ -1,6 +1,6 @@
 {
     "name": "qaep-cli",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "description": "A cli project",
     "author": "liushaopeng <braisedcakes@gmail.com>",
     "bin": {
@@ -8,6 +8,14 @@
         "qaep-init": "bin/init.js",
         "qaep-minpic": "bin/minpic.js"
     },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/BraisedCakes666/qaep-cli.git"
+    },
+    "bugs": {
+        "url": "https://github.com/BraisedCakes666/qaep-cli/issues"
+    },
+    "homepage": "https://github.com/BraisedCakes666/qaep-cli#readme",
     "engines": {
         "node": ">= 8.0.0",
         "npm": ">= 3.0.0"
